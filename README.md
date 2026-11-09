@@ -1,4 +1,4 @@
-# Keep or Next · bêta publique 0.1.7
+# Keep or Next · bêta publique 0.1.8
 
 Version publique et limitée de l'application Keep or Next (carnet de rencontres).
 
